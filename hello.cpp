@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 
+// enum
+
 enum Direction
 {
   NORTH,  // 0
